@@ -1801,14 +1801,6 @@ http://live.redtraffic.xyz/russian.m3u8
 http://live.redtraffic.xyz/teen.m3u8
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="XXX" tvg-logo="https://i.imgur.com/k85bqov.png",RedTraffic Threesome
 http://live.redtraffic.xyz/threesome.m3u8
-#EXTINF:-1  group-title="MOVIES",PLAYBOY HD
-http://rdns.tv/0gtca76g/c1v44b4i/46201
-#EXTINF:-1  group-title="MOVIES",PLAYBOY SD
-http://rdns.tv/0gtca76g/c1v44b4i/46202
-#EXTINF:-1  group-title="MOVIES" tvg-logo="",Penthouse
-http://23.237.100.82:8000/PENTHOUSE/index.m3u8
-#EXTINF:-1  group-title="MOVIES" tvg-logo="",Penthouse2
-http://rdns.tv/0gtca76g/c1v44b4i/46204
 #EXTINF:-1 tvg-name="AdultIPTV.net Live Cams" tvg-id="id N/A" group-title="XXX" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",AdultIPTV.net Live Cams
 http://live.adultiptv.net/livecams.m3u8
 #EXTINF:-1 tvg-name="AdultIPTV.net MILF" tvg-id="id N/A" group-title="XXX" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",AdultIPTV.net MILF
@@ -16457,3 +16449,11 @@ http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-072117_001/index.m3u
 http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-072217_002/index.m3u8
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",Caribbeancompr-072617_003 DIRTY SCHOOLGIRLS 01 å®Œå…¨ç‰ˆ
 http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-072617_003/index.m3u8
+#EXTINF:-1  group-title="Title N/A",PLAYBOY HD
+http://rdns.tv/0gtca76g/c1v44b4i/46201
+#EXTINF:-1  group-title="Title N/A",PLAYBOY SD
+http://rdns.tv/0gtca76g/c1v44b4i/46202
+#EXTINF:-1  group-title="Title N/A" tvg-logo="",Penthouse
+http://23.237.100.82:8000/PENTHOUSE/index.m3u8
+#EXTINF:-1  group-title="Title N/A" tvg-logo="",Penthouse2
+http://rdns.tv/0gtca76g/c1v44b4i/46204
